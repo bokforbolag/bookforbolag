@@ -1,0 +1,7 @@
+cd ./website-code/website/exampleSite
+
+hugo server --themesDir ../..
+
+#hugo --themesDir ../.. --destination ../../../public
+
+
